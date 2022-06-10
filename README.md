@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# jest-image-snapshot POC
 
 This project is made to test the concept of jest-image-testing
 App base is created using [Create React App](https://github.com/facebook/create-react-app).
